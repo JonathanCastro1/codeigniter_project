@@ -1,0 +1,36 @@
+/*body{
+	font-size: 8px !important;
+}*/
+
+body .content{
+	/*background-color: red !important;*/
+	/*color: blue;*/
+	/*padding: 50px;*/
+	/*padding-left:50px;*/
+	/*font-size: 8px !important;*/
+
+}
+.dashboardBox{
+	padding-left:17%;
+	/*padding-right:17%;*/
+	/*margin-right:10%;*/
+	font-size: 12px !important; 
+}
+
+.graficosBox{
+	padding-left:30%;
+}
+
+
+.userBox{
+	padding-left:7%;
+	padding-right:17%;
+	margin-right:10%;
+	font-size: 12px !important; 
+}
+
+/*body{
+	background-color: red;
+	color: blue;
+	
+}*/
